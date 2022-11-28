@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "repo": "anno-1800-mod-loader",
+      "repo": "anno1800-mod-loader",
       "owner": "xforce",
       "download": "loader.zip"
     },
